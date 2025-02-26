@@ -39,7 +39,9 @@ Great! Here's your next question. 😊
 In HTML, the <div> tag is a block-level element that takes up the full width of its container, creating a section on a new line. It's typically used to group larger content sections. On the other hand, the <span> tag is an inline element that only takes as much width as necessary and stays inline with surrounding elements. The <div> is used for creating layout structures, while <span> is used for styling small portions of text or inline content without affecting the page layout.
 ```
 <div style="background: lightgray;">This is a div</div>
-<span style="color: red;">This is a span</span>```
+<span style="color: red;">This is a span</span>
+
+```
 
 Awesome! 
 
