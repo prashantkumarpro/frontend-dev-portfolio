@@ -26,23 +26,22 @@ Awesome!
 In HTML, elements are categorized into three types based on how they behave in a document: Block-level, Inline, and Inline-block elements.
 
 Block-level elements start on a new line and take up the full width of their container.
-Examples: <div>, <p>, <h1> to <h6>, <section>, <article>.
+Examples: `<div>`, `<p>`, `<h1>` to `<h6>`, `<section>`, `<article>`.
 
 Inline elements do not start on a new line and take up only as much space as their content needs.
-Examples: <span>, <a>, <strong>, <em>.
+Examples: `<span>, `<a>`, `<strong>`, `<em>`.
 
 Inline-block elements behave like inline elements (staying in line with other elements) but allow setting width and height like block elements.
-Examples: <img>, <button>, <input>.
+Examples:  `<img>`, `<button>`, <`input>`.
 
 Great! Here's your next question. 😊  
 
 ### **Question 3: What is the difference between `<div>` and `<span>` in HTML?**  
 In HTML, the <div> tag is a block-level element that takes up the full width of its container, creating a section on a new line. It's typically used to group larger content sections. On the other hand, the <span> tag is an inline element that only takes as much width as necessary and stays inline with surrounding elements. The <div> is used for creating layout structures, while <span> is used for styling small portions of text or inline content without affecting the page layout.
-```
-<div style="background: lightgray;">This is a div</div>
-<span style="color: red;">This is a span</span>
 
-```
+examples:
+`<div style="background: lightgray;">This is a div</div>`
+`<span style="color: red;">This is a span</span>`
 
 Awesome! 
 
