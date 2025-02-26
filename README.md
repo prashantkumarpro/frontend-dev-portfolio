@@ -17,8 +17,8 @@
 🔹 **Question 1: What are the different types of HTML elements?**  
 
 👉 Try to answer in your own words first.
-HTML elements define the structure of a webpage. They are mainly categorized into three types: Block-level elements, Inline elements, and Inline-block elements. Block-level elements, like <div> and <p>, take up the full width and start on a new line.
-Inline elements, like <span> and <a>, only take up as much space as necessary and don’t start on a new line. Inline-block elements, like <img> and <button>, behave like inline elements but allow setting width and height.
+HTML elements define the structure of a webpage. They are mainly categorized into three types: Block-level elements, Inline elements, and Inline-block elements. Block-level elements, like `<div>` and `<p>`, take up the full width and start on a new line.
+Inline elements, like <span> and <a>, only take up as much space as necessary and don’t start on a new line. Inline-block elements, like `<img>` and `<button>`, behave like inline elements but allow setting width and height.
 
 Awesome! 
 
@@ -29,7 +29,7 @@ Block-level elements start on a new line and take up the full width of their con
 Examples: `<div>`, `<p>`, `<h1>` to `<h6>`, `<section>`, `<article>`.
 
 Inline elements do not start on a new line and take up only as much space as their content needs.
-Examples: `<span>, `<a>`, `<strong>`, `<em>`.
+Examples: `<span>`, `<a>`, `<strong>`, `<em>` .
 
 Inline-block elements behave like inline elements (staying in line with other elements) but allow setting width and height like block elements.
 Examples:  `<img>`, `<button>`, <`input>`.
@@ -46,9 +46,9 @@ examples:
 Awesome! 
 
 ### **Question 4: What are semantic HTML elements, and why are they important?**
-"Semantic HTML elements are HTML tags that carry meaning and help define the structure of a webpage. Examples include <header>, <footer>, <article>, and <nav>. These elements make websites more accessible, improve SEO, and make the code easier to maintain. Using semantic HTML helps search engines understand the content and improves the overall user experience."
+"Semantic HTML elements are HTML tags that carry meaning and help define the structure of a webpage. Examples include `<header>`, `<footer>`, `<article>`, and `<nav>`. These elements make websites more accessible, improve SEO, and make the code easier to maintain. Using semantic HTML helps search engines understand the content and improves the overall user experience."
 
-Great! Let’s continue with front-end interview practice.  
+Great!   
 
 ### **Question 5: What is the difference between HTML and HTML5?**  
 ### **HTML vs. HTML5**:
