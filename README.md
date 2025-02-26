@@ -38,6 +38,9 @@ Great! Here's your next question. 😊
 ### **Question 3: What is the difference between `<div>` and `<span>` in HTML?**  
 In HTML, the <div> tag is a block-level element that takes up the full width of its container, creating a section on a new line. It's typically used to group larger content sections. On the other hand, the <span> tag is an inline element that only takes as much width as necessary and stays inline with surrounding elements. The <div> is used for creating layout structures, while <span> is used for styling small portions of text or inline content without affecting the page layout.
 
+<div style="background: lightgray;">This is a div</div>
+<span style="color: red;">This is a span</span>
+
 Awesome! Here's your next question. 😊
 
 ### **Question 4: What are semantic HTML elements, and why are they important?**
@@ -46,9 +49,6 @@ Awesome! Here's your next question. 😊
 Great! Let’s continue with front-end interview practice.  
 
 ### **Question 5: What is the difference between HTML and HTML5?**  
-
-No worries! Let me explain it, and you can use it to answer the question next time.  
-
 ### **HTML vs. HTML5**:
 
 - **HTML** (Hypertext Markup Language) is the standard language used to create webpages. It provides the structure for web pages.
@@ -76,7 +76,7 @@ No worries! Let me explain it, and you can use it to answer the question next ti
 ### **In short**:  
 HTML5 is an updated version of HTML that enhances multimedia, mobile capabilities, and offers better structure and functionality.
 
-Great! Let’s continue with front-end interview practice.
+Great!
 ...  
 
 ## CSS Questions  
