@@ -1,11 +1,25 @@
-.  
+# Frontend Interview Questions  
+
+## Table of Contents  
+1. [HTML Questions](#html-questions)  
+2. [CSS Questions](#css-questions)  
+3. [JavaScript Questions](#javascript-questions)  
+4. [React.js Questions](#reactjs-questions)  
+5. [Frontend System Design](#frontend-system-design)  
+6. [Performance Optimization](#performance-optimization)  
+7. [Resources & Practice](#resources--practice)  
+
+---
+
+## HTML Questions  
+
 # **HTML Basics:**  
 🔹 **Question 1: What are the different types of HTML elements?**  
 
 👉 Try to answer in your own words first.
 "HTML elements define the structure of a webpage. They are mainly categorized into three types: Block-level elements, Inline elements, and Inline-block elements. Block-level elements, like <div> and <p>, take up the full width and start on a new line. Inline elements, like <span> and <a>, only take up as much space as necessary and don’t start on a new line. Inline-block elements, like <img> and <button>, behave like inline elements but allow setting width and height. Understanding these helps in designing layouts effectively."
 
-Awesome! Here's your next question. 😊  
+Awesome! 
 
 ### **Question 2: What is the difference between `inline`, `block`, and `inline-block` elements?**  
 In HTML, elements are categorized into three types based on how they behave in a document: Block-level, Inline, and Inline-block elements."
@@ -62,9 +76,20 @@ No worries! Let me explain it, and you can use it to answer the question next ti
 ### **In short**:  
 HTML5 is an updated version of HTML that enhances multimedia, mobile capabilities, and offers better structure and functionality.
 
-Great! Let’s continue with front-end interview practice.  
+Great! Let’s continue with front-end interview practice.
+...  
+
+## CSS Questions  
 
 ### **Question 6: What are the different types of CSS?**  
 "There are three types of CSS: Inline CSS, Internal CSS, and External CSS. Inline CSS is written directly inside an HTML tag using the style attribute and is used for small, quick styling changes. Internal CSS is written inside a <style> tag in the <head> section of an HTML document and is used when styling a single page. External CSS is written in a separate .css file and linked to the HTML using the <link> tag, making it ideal for large projects where styles need to be applied across multiple pages."
+...  
+
+## JavaScript Questions  
+### What is the difference between `==` and `===`?  
+### Explain event delegation in JavaScript.  
+...
+  
+
 
 
