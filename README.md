@@ -22,7 +22,7 @@
 Awesome! 
 
 ### **Question 2: What is the difference between `inline`, `block`, and `inline-block` elements?**  
-In HTML, elements are categorized into three types based on how they behave in a document: Block-level, Inline, and Inline-block elements."
+In HTML, elements are categorized into three types based on how they behave in a document: Block-level, Inline, and Inline-block elements.
 
 Block-level elements start on a new line and take up the full width of their container.
 Examples: <div>, <p>, <h1> to <h6>, <section>, <article>.
