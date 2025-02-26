@@ -37,11 +37,11 @@ Great! Here's your next question. 😊
 
 ### **Question 3: What is the difference between `<div>` and `<span>` in HTML?**  
 In HTML, the <div> tag is a block-level element that takes up the full width of its container, creating a section on a new line. It's typically used to group larger content sections. On the other hand, the <span> tag is an inline element that only takes as much width as necessary and stays inline with surrounding elements. The <div> is used for creating layout structures, while <span> is used for styling small portions of text or inline content without affecting the page layout.
-
+```
 <div style="background: lightgray;">This is a div</div>
-<span style="color: red;">This is a span</span>
+<span style="color: red;">This is a span</span>```
 
-Awesome! Here's your next question. 😊
+Awesome! 
 
 ### **Question 4: What are semantic HTML elements, and why are they important?**
 "Semantic HTML elements are HTML tags that carry meaning and help define the structure of a webpage. Examples include <header>, <footer>, <article>, and <nav>. These elements make websites more accessible, improve SEO, and make the code easier to maintain. Using semantic HTML helps search engines understand the content and improves the overall user experience."
