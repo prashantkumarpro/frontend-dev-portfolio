@@ -126,11 +126,11 @@ HTML5 is an updated version of HTML that enhances multimedia, mobile capabilitie
 
 ...  
 What is the difference between id and class attributes?
-6️⃣ What is the difference between <section>, <article>, and <div>?
-7️⃣ What are the different types of lists in HTML?
-8️⃣ What is the difference between <strong> and <b>?
-9️⃣ What is the difference between <em> and <i>?
-🔟 What is the difference between <iframe> and <embed>?
+6️⃣ What is the difference between <section>, <article>, and <div>? .
+7️⃣ What are the different types of lists in HTML? .
+8️⃣ What is the difference between <strong> and <b>? .
+9️⃣ What is the difference between <em> and <i>? .
+🔟 What is the difference between <iframe> and <embed>? .
 ...
 ## CSS Questions  
 
