@@ -287,5 +287,60 @@ Here, the function doesn't need a name because it's just handling an event.
 7️⃣ What is the difference between props and state in React?
 8️⃣ What is the virtual DOM in React
 
+Here are all the **frontend development interview questions** you've practiced so far, plus some extra ones to help you improve:  
+
+---
+
+### **📌 HTML Interview Questions**  
+1️⃣ What are the three main types of HTML elements?  
+2️⃣ What is the difference between `<div>` and `<span>`?  
+3️⃣ What is Semantic HTML? Can you give some examples?  
+4️⃣ What are the benefits of using Semantic HTML?  
+5️⃣ What is the difference between `id` and `class` attributes?  
+6️⃣ What is the difference between `<section>`, `<article>`, and `<div>`?  
+7️⃣ What are the different types of lists in HTML?  
+8️⃣ What is the difference between `<strong>` and `<b>`?  
+9️⃣ What is the difference between `<em>` and `<i>`?  
+🔟 What is the difference between `<iframe>` and `<embed>`?  
+
+---
+
+### **🎨 CSS Interview Questions**  
+1️⃣ What are the different types of CSS?  
+2️⃣ What is the difference between **inline, internal, and external CSS**?  
+3️⃣ What is the difference between `relative`, `absolute`, and `fixed` positioning?  
+4️⃣ What is Flexbox, and how does it work?  
+5️⃣ What is CSS Grid, and how is it different from Flexbox?  
+6️⃣ How does `z-index` work in CSS?  
+7️⃣ What is the difference between `em`, `rem`, `px`, and `%` in CSS?  
+8️⃣ What is the difference between `visibility: hidden` and `display: none`?  
+9️⃣ What are pseudo-classes and pseudo-elements? Can you give examples?  
+🔟 What is the difference between `nth-child` and `nth-of-type`?  
+
+---
+
+### **⚡ JavaScript Interview Questions**  
+1️⃣ What is the difference between `var`, `let`, and `const`?  
+2️⃣ What are primitive and non-primitive data types in JavaScript?  
+3️⃣ What is the difference between `==` and `===`?  
+4️⃣ What are arrow functions, and how do they differ from regular functions?  
+5️⃣ What is the difference between synchronous and asynchronous JavaScript?  
+6️⃣ What is the event loop in JavaScript?  
+7️⃣ What is the difference between `null` and `undefined`?  
+8️⃣ What are promises, and how do they work?  
+9️⃣ What is the difference between `map()`, `forEach()`, and `filter()`?  
+🔟 What is local storage and session storage in JavaScript?  
+
+---
+
+### **⚛️ React.js Interview Questions**  
+1️⃣ What is React, and why is it used?  
+2️⃣ What is the difference between class components and functional components?  
+3️⃣ What are React hooks? Can you name some important hooks?  
+4️⃣ What is `useState`, and how does it work?  
+5️⃣ What is `useEffect`, and when is it used?  
+6️⃣ What is React Router, and how does it work?  
+7️⃣ What is the difference between `props` and `state` in React?  
+8️⃣ What is the virtual DOM in React
 
 
