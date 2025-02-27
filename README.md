@@ -75,11 +75,11 @@ Here are all the **frontend development interview questions** you've practiced s
 # **HTML Basics:**  
 🔹 **Question 1: What are the different types of HTML elements?**  
 HTML elements define the structure of a webpage. They are mainly categorized into three types: Block-level elements, Inline elements, and Inline-block elements. Block-level elements, like `<div>` and `<p>`, take up the full width and start on a new line.
-Inline elements, like <span> and <a>, only take up as much space as necessary and don’t start on a new line. Inline-block elements, like `<img>` and `<button>`, behave like inline elements but allow setting width and height.
+Inline elements, like <span> and `<a>`, only take up as much space as necessary and don’t start on a new line. Inline-block elements, like `<img>` and `<button>`, behave like inline elements but allow setting width and height.
 There are three main types of HTML elements: Block-level, Inline, and Inline-block elements.
 
-Block-level elements start on a new line and take up the full width of their container. Examples include <div>, <p>, <h1> to <h6>, and <section>.
-Inline elements do not start on a new line and take up only as much width as their content requires. Examples include <span>, <a>, and <b>.
+Block-level elements start on a new line and take up the full width of their container. Examples include `<div>`, `<p>`, `<h1>` to `<h6>`, and `<section>`.
+Inline elements do not start on a new line and take up only as much width as their content requires. Examples include `<span>`, `<a>`, and `<b>`.
 Inline-block elements behave like inline elements, but they allow setting width and height like block elements. An example is the <img> tag.
 
 ### **Question 2: What is the difference between `inline`, `block`, and `inline-block` elements?**  
